@@ -51,7 +51,7 @@ p{
 
 /*homepage css:*/
 .hero {
-    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.in%2FAttractionProductReview-g297628-d17746522-Bangalore_Private_Tour-Bengaluru_Bangalore_District_Karnataka.html&psig=AOvVaw0Iu0R7sRAaBhwRJbyKx4u1&ust=1763501383192000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCc4OGQ-pADFQAAAAAdAAAAABAE.jpg'); /* replace with your chapter's background image */
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.in%2FAttractionProductReview-g297628-d17746522-Bangalore_Private_Tour-Bengaluru_Bangalore_District_Karnataka.html&psig=AOvVaw0Iu0R7sRAaBhwRJbyKx4u1&ust=1763501383192000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCc4OGQ-pADFQAAAAAdAAAAABAE'); /* replace with your chapter's background image */
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* allows the background image to stay fixed while scrolling */
